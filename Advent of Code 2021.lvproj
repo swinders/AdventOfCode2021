@@ -10,7 +10,13 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Controls" Type="Folder" URL="../Controls">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="Day1" Type="Folder" URL="../Day1">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
+		<Item Name="Day2" Type="Folder" URL="../Day2">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
