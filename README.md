@@ -7,3 +7,4 @@ Solving challenges for Advent Of Code 2021 (https://adventofcode.com/2021) using
 * Day 4 - Giant Squid
 * Day 5 - Hydrothermal Venture
 * Day 6 - Lanternfish
+* Day 7 - The Treachery of Whales

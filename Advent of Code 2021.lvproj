@@ -31,6 +31,9 @@
 		<Item Name="Day6" Type="Folder" URL="../Day6">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
+		<Item Name="Day7" Type="Folder" URL="../Day7">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
+		</Item>
 		<Item Name="SubVIs" Type="Folder" URL="../SubVIs">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
