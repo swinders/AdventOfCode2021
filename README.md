@@ -11,3 +11,4 @@ Solving challenges for Advent Of Code 2021 (https://adventofcode.com/2021) using
 * Day 8 - Seven Segment Search *
 * Day 9 - Smoke Basin
 * Day 10 - Syntax Scoring **
+* Day 11 - Dumbo Octopus **
